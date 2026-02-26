@@ -8,7 +8,7 @@ import SidebarMenu from '../../../components/SidebarMenu';
 import { Link } from "react-router";
 
 //import custom hook useUsers and interface User
-import { useUsers, type User } from "../../../hooks/user/useUsers";
+import { useUsers, type User } from "../../../hooks/users/useUsers";
 
 const UsersIndex: FC = () => {
 
